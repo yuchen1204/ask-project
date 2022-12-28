@@ -33,5 +33,5 @@ Baki_wang = Jumlah_wang - myhd
 print("------------------------------------------------------------------------------")
 print(f"type petron: {choice}")
 print(f"Baki_wang ialah {Baki_wang}")
-print(f"Bilangan_liter ialah {Bilangan_liter}")
+print(f"Bilangan_liter ialah {Bilangan_liter:.2f}")
 

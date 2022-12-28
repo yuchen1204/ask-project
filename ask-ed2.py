@@ -1,5 +1,3 @@
-import math
-
 # Gasoline information stored in a dictionary
 gas_prices = {
     "RON95": 2.05,
@@ -23,7 +21,7 @@ def divide(x, y):
     return x / y
 
 num = gas_prices[choice]
-Bilangan_liter = math.ceil(divide(myhd, num))
+Bilangan_liter = divide(myhd, num)
 
 # Calculate the user's remaining money
 Baki_wang = Jumlah_wang - myhd

@@ -23,6 +23,9 @@ def divide(x, y):
 num = gas_prices[choice]
 Bilangan_liter = divide(myhd, num)
 
+# Round Bilangan_liter to 2 decimal places
+Bilangan_liter = round(Bilangan_liter, 2)
+
 # Calculate the user's remaining money
 Baki_wang = Jumlah_wang - myhd
 

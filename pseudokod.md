@@ -1,7 +1,7 @@
 Define a list called "table" to store information about gasoline
 
 1. For each row in "table":
-    > Print the row
+    > 1. Print the row
 
 2. Ask the user to input an amount of money and a quantity of gasoline
 

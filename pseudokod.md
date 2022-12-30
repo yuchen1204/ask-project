@@ -1,13 +1,12 @@
 1. Mula
 2. Papar gas prices
-3. unknown
-4.  Masukkan jumlah wang
-5. Masukkan minyak yang hendak diisi
-6. Papar "Enter choice(RON95/RON97/DIESEL)"
-7. definasi divide(x,y)
-	> 7.1 return x/y
-8. Bilangan liter = divide(myhd,num)
-9. Baki wang = Jumlah wang - myhd
-10. Papar type petron
-11. Papar Baki wang ialah
-12. Papar Bilangan liter ialah
+3.  Masukkan jumlah wang
+4. Masukkan minyak yang hendak diisi
+5. Papar "Enter choice(RON95/RON97/DIESEL)"
+6. definasi divide(x,y)
+    6.1 return x/y
+7. Bilangan liter = divide(myhd,num)
+8. Baki wang = Jumlah wang - myhd
+9. Papar type petron
+10. Papar Baki wang ialah
+11. Papar Bilangan liter ialah

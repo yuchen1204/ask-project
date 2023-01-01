@@ -31,7 +31,7 @@ Baki_wang = Jumlah_wang - myhd
 
 # Output the result
 print("------------------------------------------------------------------------------")
-print(f"type petron: {choice}")
+print(f"type petrol: {choice}")
 print(f"Baki_wang ialah {Baki_wang}")
 print(f"Bilangan_liter ialah {Bilangan_liter:.2f}")
 
